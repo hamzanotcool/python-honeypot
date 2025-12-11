@@ -1,0 +1,8 @@
+{"timestamp": "2025-12-11T00:44:53.973933Z", "event": "HTTP_GET", "ip": "127.0.0.1", "path": "/", "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0"}
+{"timestamp": "2025-12-11T00:45:03.697035Z", "event": "HTTP_POST", "ip": "127.0.0.1", "path": "/", "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0", "username": "hamza", "password": "123456"}
+{"timestamp": "2025-12-11T00:46:14.261108Z", "event": "SSH_LOGIN", "ip": "127.0.0.1", "username": "hamza", "password": "123456"}
+{"timestamp": "2025-12-11T00:46:16.953514Z", "event": "SSH_COMMAND", "ip": "127.0.0.1", "command": "ls"}
+{"timestamp": "2025-12-11T00:46:25.425225Z", "event": "SSH_COMMAND", "ip": "127.0.0.1", "command": "cat passwors.txt"}
+{"timestamp": "2025-12-11T00:46:56.116579Z", "event": "SSH_COMMAND", "ip": "127.0.0.1", "command": "nano passwords.txt"}
+{"timestamp": "2025-12-11T00:47:02.950727Z", "event": "SSH_COMMAND", "ip": "127.0.0.1", "command": "cat passwords.txt"}
+{"timestamp": "2025-12-11T00:47:16.632257Z", "event": "SSH_COMMAND", "ip": "127.0.0.1", "command": "exit"}

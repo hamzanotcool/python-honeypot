@@ -1,0 +1,5 @@
+{
+    "port": 8080,
+    "fake_endpoints": ["/", "/login", "/admin", "/api"],
+    "log_format": "json"
+}
