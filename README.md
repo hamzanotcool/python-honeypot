@@ -35,18 +35,31 @@ Faux SSH (FakeShell) :
 ---------------------------------------------------
 
 my-honeypot/
+
 │
+
 ├── src/
+
 │   ├── honeypot_http.py
+
 │   ├── fake_ssh.py
+
 │   └── logger.py
+
 │
+
 ├── logs/
+
 │   └── events.log
+
 │
+
 ├── config.json
+
 ├── README.txt
+
 └── requirements.txt
+
 
 ---------------------------------------------------
 3. Installation et exécution
